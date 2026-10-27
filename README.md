@@ -500,6 +500,7 @@ Three trajectories so you do not get lost. Each step points to the detailed sect
 - [Microchip (AVR / PIC / SAM)](https://www.microchip.com/) (free) - AVR (ATmega) and PIC families.
 - [WCH CH32V](https://www.wch-ic.com/) (free) - Very inexpensive RISC-V microcontrollers.
 - [PlatformIO](https://platformio.org/) (free) - Cross-platform embedded development environment.
+- [Espressif MCU Selector](https://espressif-search.techalchemy.fr/) (FR) (free) - Independent community tool to filter and compare 64 Espressif chips and modules (CPU, GPIO, memory, PCB layers, integration complexity), with a part-number decoder. Not affiliated with Espressif.
 
 **Real-time operating systems**
 
