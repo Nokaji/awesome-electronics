@@ -49,7 +49,6 @@ This list covers electronics **in the broad sense**: analog, digital, microcontr
 - [Communities and Forums](#communities-and-forums)
 - [French-Language Resources](#french-language-resources)
 - [Other Awesome Lists](#other-awesome-lists)
-- [License](#license)
 
 ---
 
@@ -89,7 +88,8 @@ Three trajectories so you do not get lost. Each step points to the detailed sect
 
 - **[MIT OpenCourseWare: 6.002 Circuits and Electronics](https://ocw.mit.edu/courses/6-002-circuits-and-electronics-spring-2007/)** (free) - The reference course on linear circuits, MOSFETs, digital abstraction and amplifiers (companion book: *Foundations of Analog and Digital Electronic Circuits*).
 - [MIT OpenCourseWare](https://ocw.mit.edu/) (free) - Full catalog: signals and systems (6.003), electromagnetics, microelectronics, embedded systems.
-- [edX](https://www.edx.org/learn/circuits) / [Coursera](https://www.coursera.org/) (free to audit) - Circuits and electronics courses from major universities.
+- [edX](https://www.edx.org/learn/circuits) (free to audit) - Circuits and electronics courses from major universities.
+- [Coursera](https://www.coursera.org/) (free to audit) - Circuits and electronics courses from major universities.
 - [NPTEL](https://nptel.ac.in/) (free) - Indian university (IIT) video courses: analog and digital electronics, power electronics, VLSI.
 - [Khan Academy: Electrical Engineering](https://www.khanacademy.org/science/electrical-engineering) (free) - Very good entry point to basic circuits.
 - [FUN MOOC](https://www.fun-mooc.fr/) (FR) (free) - French university MOOC platform, with electronics and embedded systems courses depending on the session.
@@ -115,7 +115,9 @@ Three trajectories so you do not get lost. Each step points to the detailed sect
 - [Electronics Stack Exchange](https://electronics.stackexchange.com/) (free) - When you have a precise question, the answer often already exists there.
 - [Analog Devices: Analog Dialogue](https://www.analog.com/en/resources/analog-dialogue.html) (free) - In-depth technical articles on analog and mixed-signal design.
 - [EDN Design Ideas](https://www.edn.com/) (free) - Clever circuits submitted by engineers.
-- [Instructables](https://www.instructables.com/) / [Hackster.io](https://www.hackster.io/) / [Hackaday.io](https://hackaday.io/) (free) - Step-by-step documented projects.
+- [Instructables](https://www.instructables.com/) (free) - Step-by-step documented projects.
+- [Hackster.io](https://www.hackster.io/) (free) - Step-by-step documented projects.
+- [Hackaday.io](https://hackaday.io/) (free) - Step-by-step documented projects.
 - [Soldering Is Easy](https://mightyohm.com/blog/2011/04/soldering-is-easy-comic-book-downloads/) (free) - A soldering mini comic book.
 - [Zeste de Savoir](https://zestedesavoir.com/) (FR) (free) - French-language tutorials (including electronics and Arduino) written by the community.
 - [Eskimon](https://eskimon.fr/) (FR) (free) - French-language tutorials for getting started with Arduino.
@@ -245,14 +247,15 @@ Three trajectories so you do not get lost. Each step points to the detailed sect
 - [CircuitLab](https://www.circuitlab.com/) (freemium) - Browser-based editor and simulator.
 - [EveryCircuit](https://everycircuit.com/) (freemium) - Animated simulation (web and mobile).
 - [CircuitVerse](https://circuitverse.org/) (free) - Digital logic simulation.
-- [Digital](https://github.com/hneemann/Digital) (free) - Digital logic simulator for teaching.
+- [Digital](https://github.com/hneemann/Digital) (free) - Logic simulator for teaching.
 
 **Electromagnetics and thermal**
 
 - [openEMS](https://openems.de/) (free) - Open source FDTD solver for antennas and transmission lines.
-- [FEMM](https://www.femm.info/) (free) - 2D finite element analysis for magnetics (inductors, transformers, motors).
+- [FEMM](https://www.femm.info/) (free) - Finite element analysis in 2D for magnetics (inductors, transformers, motors).
 - [Elmer FEM](https://www.elmerfem.org/) (free) - Multiphysics finite element solver.
-- [4nec2](https://www.qsl.net/4nec2/) / [xnec2c](https://github.com/KJ7LNW/xnec2c) (free) - Antenna modeling (NEC).
+- [4nec2](https://www.qsl.net/4nec2/) (free) - Antenna modeling (NEC).
+- [xnec2c](https://github.com/KJ7LNW/xnec2c) (free) - Antenna modeling (NEC).
 - [scikit-rf](https://scikit-rf.org/) (free) - RF network analysis in Python (S-parameters, Smith chart).
 
 **Python for electronics**
@@ -380,11 +383,16 @@ Three trajectories so you do not get lost. Each step points to the detailed sect
 - [TME](https://www.tme.eu/) (paid) - European distributor (Poland), fast delivery.
 - [Reichelt](https://www.reichelt.com/) (paid) - German distributor, good for common components.
 - [Conrad](https://www.conrad.fr/) (paid) - Components, tools and instruments for consumers and professionals.
-- [Arrow](https://www.arrow.com/) / [Avnet](https://www.avnet.com/) (paid) - Major semiconductor distributors.
+- [Arrow](https://www.arrow.com/) (paid) - Major semiconductor distributors.
+- [Avnet](https://www.avnet.com/) (paid) - Major semiconductor distributors.
 
 **Maker and module specialists**
 
-- [Adafruit](https://www.adafruit.com/) / [SparkFun](https://www.sparkfun.com/) / [Pololu](https://www.pololu.com/) / [DFRobot](https://www.dfrobot.com/) / [Seeed Studio](https://www.seeedstudio.com/) (paid) - Modules, development boards, sensors.
+- [Adafruit](https://www.adafruit.com/) (paid) - Modules, development boards, sensors.
+- [SparkFun](https://www.sparkfun.com/) (paid) - Modules, development boards, sensors.
+- [Pololu](https://www.pololu.com/) (paid) - Modules, development boards, sensors.
+- [DFRobot](https://www.dfrobot.com/) (paid) - Modules, development boards, sensors.
+- [Seeed Studio](https://www.seeedstudio.com/) (paid) - Modules, development boards, sensors.
 - [Tindie](https://www.tindie.com/) (paid) - Marketplace for independent electronics creators.
 - [Crowd Supply](https://www.crowdsupply.com/) (paid) - Crowdfunding for open hardware (iCEBreaker, LibreVNA and more).
 
@@ -403,7 +411,8 @@ Three trajectories so you do not get lost. Each step points to the detailed sect
 - [Part-DB](https://github.com/Part-DB/Part-DB-server) (free) - Open source component database.
 - [PartsBox](https://partsbox.com/) (paid) - Browser-based inventory and BOM management.
 - [Wikipedia: list of 7400-series ICs](https://en.wikipedia.org/wiki/List_of_7400-series_integrated_circuits) (free) - Quick reference for discrete logic.
-- [Nexperia Logic](https://www.nexperia.com/) / [TI Logic](https://www.ti.com/) (free) - Logic family selection guides.
+- [Nexperia Logic](https://www.nexperia.com/) (free) - Logic family selection guides.
+- [TI Logic](https://www.ti.com/) (free) - Logic family selection guides.
 - [AllDatasheet](https://www.alldatasheet.com/) (free) - Datasheets for old and obsolete parts. Prefer the manufacturer's source when it exists.
 
 > Beware of counterfeits: buy from authorized distributors, especially power semiconductors and recent microcontrollers.
@@ -468,7 +477,8 @@ Three trajectories so you do not get lost. Each step points to the detailed sect
 - [Icarus Verilog](https://github.com/steveicarus/iverilog) (free) - Verilog simulator.
 - [GHDL](https://github.com/ghdl/ghdl) (free) - VHDL simulator.
 - [cocotb](https://www.cocotb.org/) (free) - Verify circuits in Python.
-- [Digital](https://github.com/hneemann/Digital) / [Logisim-evolution](https://github.com/logisim-evolution/logisim-evolution) (free) - Logic simulation for teaching.
+- [Digital](https://github.com/hneemann/Digital) (free) - Logic simulation for teaching.
+- [Logisim-evolution](https://github.com/logisim-evolution/logisim-evolution) (free) - Logic simulation for teaching.
 
 **Boards and vendors**
 
@@ -510,7 +520,8 @@ Three trajectories so you do not get lost. Each step points to the detailed sect
 
 **Languages**
 
-- [MicroPython](https://micropython.org/) / [CircuitPython](https://circuitpython.org/) (free) - Python on microcontrollers.
+- [MicroPython](https://micropython.org/) (free) - Python on microcontrollers.
+- [CircuitPython](https://circuitpython.org/) (free) - Python on microcontrollers.
 - [The Embedded Rust Book](https://docs.rust-embedded.org/book/) (free) - Embedded Rust.
 - [Embassy](https://embassy.dev/) (free) - Async Rust framework for microcontrollers.
 - [probe-rs](https://probe.rs/) (free) - Vendor-independent debugging and flashing in Rust.
@@ -594,7 +605,8 @@ Three trajectories so you do not get lost. Each step points to the detailed sect
 
 **Antennas**
 
-- [4nec2](https://www.qsl.net/4nec2/) / [xnec2c](https://github.com/KJ7LNW/xnec2c) (free) - Antenna modeling.
+- [4nec2](https://www.qsl.net/4nec2/) (free) - Antenna modeling.
+- [xnec2c](https://github.com/KJ7LNW/xnec2c) (free) - Antenna modeling.
 - [openEMS](https://openems.de/) (free) - Electromagnetic simulation of planar structures and antennas.
 - [scikit-rf](https://scikit-rf.org/) (free) - S-parameter processing in Python.
 
@@ -675,7 +687,10 @@ Three trajectories so you do not get lost. Each step points to the detailed sect
 **Soldering equipment**
 
 - **[Pinecil (Pine64)](https://pine64.org/)** (paid) - Open source USB-C/DC soldering iron with excellent value for money.
-- [JBC](https://www.jbctools.com/) / [Hakko](https://www.hakko.com/) / [Weller](https://www.weller-tools.com/) / [Metcal](https://www.metcal.com/) (paid) - Professional stations.
+- [JBC](https://www.jbctools.com/) (paid) - Professional stations.
+- [Hakko](https://www.hakko.com/) (paid) - Professional stations.
+- [Weller](https://www.weller-tools.com/) (paid) - Professional stations.
+- [Metcal](https://www.metcal.com/) (paid) - Professional stations.
 - [Miniware TS101](https://www.miniware.com.cn/) (paid) - Compact portable iron.
 - Hot air station and reflow oven (T-962, hot plate) for SMD work (paid).
 
@@ -692,7 +707,9 @@ Three trajectories so you do not get lost. Each step points to the detailed sect
 - [FreeCAD](https://www.freecad.org/) (free) - Open source CAD, with KiCad StepUp for import.
 - [OpenSCAD](https://openscad.org/) (free) - Parametric CAD by code.
 - [Autodesk Fusion](https://www.autodesk.com/products/fusion-360/) (paid) - CAD with integrated electronics.
-- [Hammond](https://www.hammfg.com/) / [Bud Industries](https://www.budind.com/) / [Takachi](https://www.takachi-el.co.jp/) (paid) - Standard enclosures.
+- [Hammond](https://www.hammfg.com/) (paid) - Standard enclosures.
+- [Bud Industries](https://www.budind.com/) (paid) - Standard enclosures.
+- [Takachi](https://www.takachi-el.co.jp/) (paid) - Standard enclosures.
 - [Misumi](https://www.misumi-ec.com/) (paid) - Standard mechanical parts.
 - 3D printing and laser cutting: see the [fablabs](#french-language-resources) near you.
 
@@ -704,7 +721,8 @@ Three trajectories so you do not get lost. Each step points to the detailed sect
 - [EEVblog Teardowns](https://www.eevblog.com/) (free) - Teardowns and design analysis.
 - [Big Clive](https://www.youtube.com/@bigclive) (free) - Teardowns of inexpensive products and schematic analysis.
 - [Mr Carlson's Lab](https://www.youtube.com/@MrCarlsonsLab) (free) - Restoring vintage electronics.
-- [Louis Rossmann](https://www.youtube.com/@rossmanngroup) / [NorthridgeFix](https://www.youtube.com/@NorthridgeFix) (free) - Board-level repair (computers, consoles).
+- [Louis Rossmann](https://www.youtube.com/@rossmanngroup) (free) - Board-level repair (computers, consoles).
+- [NorthridgeFix](https://www.youtube.com/@NorthridgeFix) (free) - Board-level repair (computers, consoles).
 - [Learn Electronics Repair](https://www.youtube.com/@LearnElectronicsRepair) (free) - Repair without schematics.
 - [Kerry Wong](https://www.kerrywong.com/) (free) - Blog and videos on measurement and analysis.
 - [Ken Shirriff: Blog](https://www.righto.com/) (free) - Reverse engineering of integrated circuits and historical hardware.
@@ -758,9 +776,9 @@ Three trajectories so you do not get lost. Each step points to the detailed sect
 
 **Open process design kits (PDKs)**
 
-- [SkyWater SKY130](https://github.com/google/skywater-pdk) (free) - 130 nm, the first open foundry PDK.
-- [GlobalFoundries GF180MCU](https://github.com/google/gf180mcu-pdk) (free) - 180 nm, mixed-signal.
-- [IHP Open PDK (SG13G2)](https://github.com/IHP-GmbH/IHP-Open-PDK) (free) - 130 nm SiGe BiCMOS for RF and high frequency.
+- [SkyWater SKY130](https://github.com/google/skywater-pdk) (free) - Open 130 nm process, the first open foundry PDK.
+- [GlobalFoundries GF180MCU](https://github.com/google/gf180mcu-pdk) (free) - Open 180 nm process for mixed-signal design.
+- [IHP Open PDK (SG13G2)](https://github.com/IHP-GmbH/IHP-Open-PDK) (free) - Open 130 nm SiGe BiCMOS process for RF and high frequency.
 
 **Community and architecture**
 
@@ -781,8 +799,9 @@ Three trajectories so you do not get lost. Each step points to the detailed sect
 - [Matter / Thread](https://csa-iot.org/) - Interoperable smart home standards.
 - [MQTT](https://mqtt.org/) (free) - IoT messaging protocol.
 - [Node-RED](https://nodered.org/) (free) - Flow-based automation.
-- [ROS 2](https://docs.ros.org/) / [micro-ROS](https://micro.ros.org/) (free) - Robotics, including on microcontrollers.
-- [Klipper / Marlin](https://www.klipper3d.org/) (free) - 3D printer firmware (applied embedded electronics).
+- [ROS 2](https://docs.ros.org/) (free) - Robotics, including on microcontrollers.
+- [micro-ROS](https://micro.ros.org/) (free) - Robotics, including on microcontrollers.
+- [Klipper / Marlin](https://www.klipper3d.org/) (free) - Firmware for 3D printers (applied embedded electronics).
 - [Framboise 314](https://framboise314.fr/) (FR) (free) - French-language blog on Raspberry Pi and micro-computing.
 
 ---
@@ -805,7 +824,7 @@ Three trajectories so you do not get lost. Each step points to the detailed sect
 - [IPC](https://www.ipc.org/) (paid) - PCB design, manufacturing and acceptance standards (IPC-2221, IPC-A-610, J-STD-001 and more).
 - [IEC](https://www.iec.ch/) (paid) - International standards (IEC 62368-1 for audio/video and ICT equipment safety).
 - [JEDEC](https://www.jedec.org/) (paid) - Semiconductor and memory standards.
-- [IEEE Standards](https://standards.ieee.org/) (paid) - IEEE standards.
+- [IEEE Standards](https://standards.ieee.org/) (paid) - Standards published by the IEEE.
 - [USB-IF](https://www.usb.org/) (free) - USB specifications.
 - [NXP UM10204 (I2C)](https://www.nxp.com/docs/en/user-guide/UM10204.pdf) (free) - I2C specification.
 - [CAN in Automation](https://www.can-cia.org/) (free) - CAN and CANopen documentation.
@@ -855,11 +874,14 @@ Three trajectories so you do not get lost. Each step points to the detailed sect
 - [The Signal Path](https://www.youtube.com/@TheSignalPath) - RF measurements and circuit analysis.
 - [Contextual Electronics](https://contextualelectronics.com/) - Product design.
 - [Altium Academy](https://www.youtube.com/@AltiumAcademy) - PCB design.
-- [SparkFun](https://www.youtube.com/@SparkFun) / [Adafruit](https://www.youtube.com/@adafruit) / [DigiKey](https://www.youtube.com/@digikey) - Tutorials and news.
-- [Texas Instruments](https://www.youtube.com/@TexasInstruments) / [Analog Devices](https://www.youtube.com/@AnalogDevicesInc) - Manufacturer training.
+- [SparkFun](https://www.youtube.com/@SparkFun) - Tutorials and news.
+- [Adafruit](https://www.youtube.com/@adafruit) - Tutorials and news.
+- [DigiKey](https://www.youtube.com/@digikey) - Tutorials and news.
+- [Texas Instruments](https://www.youtube.com/@TexasInstruments) - Manufacturer training.
+- [Analog Devices](https://www.youtube.com/@AnalogDevicesInc) - Manufacturer training.
 - [Hackaday](https://www.youtube.com/@Hackaday) - Projects and Supercon talks.
 
-**French-language channels**
+### French-language channels
 
 French-language electronics channels change quickly. To avoid publishing unverified links, this section is deliberately left open: **community contributions are welcome** (see [Contributing](#contributing)).
 
@@ -874,8 +896,12 @@ French-language electronics channels change quickly. To avoid publishing unverif
 
 - **[Hackaday](https://hackaday.com/)** (free) - Hacker and engineer projects every day.
 - [Hackster.io](https://www.hackster.io/) (free) - Projects and news.
-- [EDN](https://www.edn.com/) / [EE Times](https://www.eetimes.com/) / [Electronic Design](https://www.electronicdesign.com/) / [Electronics Weekly](https://www.electronicsweekly.com/) (free) - Trade press.
-- [Adafruit Blog](https://blog.adafruit.com/) / [SparkFun Blog](https://www.sparkfun.com/) (free) - Maker news.
+- [EDN](https://www.edn.com/) (free) - Trade press.
+- [EE Times](https://www.eetimes.com/) (free) - Trade press.
+- [Electronic Design](https://www.electronicdesign.com/) (free) - Trade press.
+- [Electronics Weekly](https://www.electronicsweekly.com/) (free) - Trade press.
+- [Adafruit Blog](https://blog.adafruit.com/) (free) - Maker news.
+- [SparkFun Blog](https://www.sparkfun.com/) (free) - Maker news.
 - [Dangerous Prototypes](https://dangerousprototypes.com/) (free) - Open hardware projects.
 - [Jeff Geerling](https://www.jeffgeerling.com/) (free) - Raspberry Pi, hardware and reviews.
 - [Ken Shirriff](https://www.righto.com/) (free) - Chip reverse engineering.
@@ -895,9 +921,12 @@ French-language electronics channels change quickly. To avoid publishing unverif
 
 - **[EEVblog Forum](https://www.eevblog.com/forum/)** (free) - Forum full of experienced engineers.
 - **[Electronics Stack Exchange](https://electronics.stackexchange.com/)** (free) - Technical Q&A.
-- [Reddit: r/electronics](https://www.reddit.com/r/electronics/) / [r/AskElectronics](https://www.reddit.com/r/AskElectronics/) / [r/diyelectronics](https://www.reddit.com/r/diyelectronics/) (free) - General communities.
+- [Reddit: r/electronics](https://www.reddit.com/r/electronics/) (free) - General communities.
+- [r/AskElectronics](https://www.reddit.com/r/AskElectronics/) (free) - General communities.
+- [r/diyelectronics](https://www.reddit.com/r/diyelectronics/) (free) - General communities.
 - [Reddit: r/PrintedCircuitBoard](https://www.reddit.com/r/PrintedCircuitBoard/) (free) - Community PCB reviews.
-- [Reddit: r/embedded](https://www.reddit.com/r/embedded/) / [r/FPGA](https://www.reddit.com/r/FPGA/) (free) - Embedded and FPGA.
+- [Reddit: r/embedded](https://www.reddit.com/r/embedded/) (free) - Embedded and FPGA.
+- [r/FPGA](https://www.reddit.com/r/FPGA/) (free) - Embedded and FPGA.
 - [KiCad Forum](https://forum.kicad.info/) (free) - KiCad support.
 - [All About Circuits Forum](https://forum.allaboutcircuits.com/) (free) - Help for beginners and intermediate users.
 - [Arduino Forum](https://forum.arduino.cc/) (free) - Arduino support.
@@ -929,7 +958,9 @@ French-language electronics channels change quickly. To avoid publishing unverif
 - [Sonelec Musique](https://www.sonelec-musique.com/) (FR) (free) - Audio and music.
 - [FUN MOOC](https://www.fun-mooc.fr/) (FR) (free) - Online courses.
 - [Elektor France](https://www.elektormagazine.fr/) (FR) (paid) - Magazine and books in French.
-- [GoTronic](https://www.gotronic.fr/) / [Lextronic](https://www.lextronic.fr/) / [Kubii](https://www.kubii.com/) (FR) (paid) - French component and module shops.
+- [GoTronic](https://www.gotronic.fr/) (FR) (paid) - French component and module shops.
+- [Lextronic](https://www.lextronic.fr/) (FR) (paid) - French component and module shops.
+- [Kubii](https://www.kubii.com/) (FR) (paid) - French component and module shops.
 
 ---
 
@@ -949,11 +980,3 @@ French-language electronics channels change quickly. To avoid publishing unverif
 ## Contributing
 
 Contributions are welcome, especially French-language resources, broken links and areas to deepen. Please read the [contribution guidelines](CONTRIBUTING.md) first.
-
----
-
-## License
-
-[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
-
-To the extent possible under law, the author has waived all copyright and related rights to this list. Product and brand names belong to their respective owners.
