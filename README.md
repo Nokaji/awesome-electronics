@@ -1,4 +1,4 @@
-# Awesome Electronics
+# Awesome Electronics [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > A curated list of resources to learn, design, build, measure and repair electronics, from your first LED to designing open source silicon chips.
 
@@ -12,7 +12,7 @@ This list covers electronics **in the broad sense**: analog, digital, microcontr
 
 ---
 
-## Table of Contents
+## Contents
 
 - [Learning Paths](#learning-paths)
 - [Learn](#learn)
@@ -49,7 +49,6 @@ This list covers electronics **in the broad sense**: analog, digital, microcontr
 - [Communities and Forums](#communities-and-forums)
 - [French-Language Resources](#french-language-resources)
 - [Other Awesome Lists](#other-awesome-lists)
-- [Contributing](#contributing)
 - [License](#license)
 
 ---
@@ -949,19 +948,7 @@ French-language electronics channels change quickly. To avoid publishing unverif
 
 ## Contributing
 
-Contributions are welcome, especially for:
-
-- **French-language resources** (YouTube channels, courses, forums, shops);
-- **broken or outdated links** (report them with the date);
-- **areas to deepen** (EMC, medical, automotive, space, photovoltaics, precision analog electronics).
-
-**Simple rules**
-
-1. One line per resource: `- [Name](URL) (tags) - Short, factual description.`
-2. Use the tags (FR), (free), (paid), (freemium) where they apply, and bold the name only for essential resources.
-3. Put the resource in the right section and keep a logical order (essentials first).
-4. Avoid duplicates and affiliate links.
-5. Prefer primary sources (manufacturers, official documentation, authors) over aggregators.
+Contributions are welcome, especially French-language resources, broken links and areas to deepen. Please read the [contribution guidelines](CONTRIBUTING.md) first.
 
 ---
 
